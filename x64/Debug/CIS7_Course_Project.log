@@ -1,0 +1,3 @@
+﻿  CIS7_Course_Project.cpp
+C:\Users\scaia\source\repos\CIS7_Course_Project\CIS7_Course_Project.cpp(37,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CIS7_Course_Project.vcxproj -> C:\Users\scaia\source\repos\CIS7_Course_Project\x64\Debug\CIS7_Course_Project.exe
