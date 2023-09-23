@@ -1,6 +1,6 @@
 # CIS7-Course-Project
 This program is my Blackjack course project submission for CIS 7.
-When run, this program will prompt and guide the user through a step by step process on playing Blackjack.
+When ran, this program will prompt and guide the user through a step by step process on playing Blackjack.
 
 ## Instructions
 Upon download of the file, you should be able to run and compile the solution to it.
